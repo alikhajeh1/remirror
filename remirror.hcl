@@ -21,10 +21,12 @@ mirrors {
 		prefix = "/fedora/"
 		upstream = "https://mirrors.xmission.com"
 	}
+
 	mirror {
 		prefix = "/fedora-epel/"
 		upstream = "https://mirrors.xmission.com"
 	}
+
 	mirror {
 		prefix = "/golang/"
 		upstream = "https://storage.googleapis.com"
